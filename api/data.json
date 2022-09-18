@@ -1,0 +1,140 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "username": "test",
+      "password": "12345"
+    }
+  ],
+  "productlist": [
+    {
+      "id": 1,
+      "name": "Apple Himachal",
+      "details": "A1 Quality",
+      "image": "apple himachal.jpg",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Apple Gala",
+      "details": "A1 Quality",
+      "image": "apple gala.jpg",
+      "price": 176
+    },
+    {
+      "id": 3,
+      "name": "Green Apple",
+      "details": "A1 Quality",
+      "image": "green apple.jpg",
+      "price": 190
+    },
+    {
+      "id": 4,
+      "name": "Grapes",
+      "details": "A1 Quality",
+      "image": "grapes.jpg",
+      "price": 110
+    },
+    {
+      "id": 5,
+      "name": "Sapota",
+      "details": "A1 Quality",
+      "image": "sapota.jpg",
+      "price": 78
+    },
+    {
+      "id": 6,
+      "name": "Dragon Fruit",
+      "details": "A1 Quality",
+      "image": "dragon fruit.jpg",
+      "price": 180
+    },
+    {
+      "id": 7,
+      "name": "Mango",
+      "details": "A1 Quality",
+      "image": "mango.jpg",
+      "price": 99
+    },
+    {
+      "id": 8,
+      "name": "Pomegranate",
+      "details": "A1 Quality",
+      "image": "pomegranate.jpg",
+      "price": 176
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Apple Himachal",
+      "details": "A1 Quality",
+      "image": "apple himachal.jpg",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Apple Gala",
+      "details": "A1 Quality",
+      "image": "apple gala.jpg",
+      "price": 176
+    },
+    {
+      "id": 3,
+      "name": "Green Apple",
+      "details": "A1 Quality",
+      "image": "green apple.jpg",
+      "price": 190
+    }
+  ],
+  "orderlist": [
+    {
+      "customername": "test",
+      "mobile": "4448",
+      "email": "osuv@gmail.com",
+      "address": "11fdfd",
+      "myorder": [
+        {
+          "id": 1,
+          "name": "Apple Himachal",
+          "details": "A1 Quality",
+          "image": "apple himachal.jpg",
+          "price": 120
+        }
+      ],
+      "id": 1
+    },
+    {
+      "customername": "gfg",
+      "mobile": "48",
+      "email": "ggg@gmail.com",
+      "address": "dsfdsf",
+      "myorder": [
+        {
+          "id": 1,
+          "name": "Apple Himachal",
+          "details": "A1 Quality",
+          "image": "apple himachal.jpg",
+          "price": 120
+        }
+      ],
+      "id": 2
+    },
+    {
+      "customername": "cgghc",
+      "mobile": "5444",
+      "email": "hggyg@gmail.com",
+      "address": "dssfs",
+      "myorder": [
+        {
+          "id": 1,
+          "name": "Apple Himachal",
+          "details": "A1 Quality",
+          "image": "apple himachal.jpg",
+          "price": 120
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
